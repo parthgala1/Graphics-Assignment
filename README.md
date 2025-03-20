@@ -26,6 +26,12 @@ The application is built using React and Next.js. It utilizes state management t
 - `position`: Tracks the balloon's position on the screen.
 - `isPopping`: Controls the visibility of the "Pop!" message.
 
+## Tech Stack
+
+- **React**: A JavaScript library for building user interfaces.
+- **Next.js**: A React framework for building server-rendered applications.
+- **Tailwind CSS**: Used for styling the components.
+
 ## Visuals
 
 ### Images
@@ -34,7 +40,7 @@ The application is built using React and Next.js. It utilizes state management t
 
 ### Video
 
-[![Watch the video](/images/blower.png)](/images/recording.mp4)
+![Watch the video](/images/recording.mp4)
 
 ## Usage
 
